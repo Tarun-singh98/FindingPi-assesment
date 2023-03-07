@@ -1,0 +1,33 @@
+.table-box {
+  margin: 20px auto;
+}
+
+.table-row {
+  display: table;
+  width: 70%;
+  margin: 10px auto;
+  padding: 12px 0;
+  color: #555;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 50, 0.3);
+}
+
+.table-cell {
+  display: table-cell;
+  width: 23%;
+  text-align: center;
+  padding: 4px 0;
+  border-right: 1px solid #d6d4d4;
+  vertical-align: middle;
+}
+
+.table-head {
+  box-shadow: none;
+  color: teal;
+  font-weight: 600;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 50, 0.3);
+}
+
+.table-head {
+  text-align: left;
+  height: 48px;
+}
